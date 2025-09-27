@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a776487618c5eca41bfe2a54260297f7, type: 3}
+  m_Name: Vehicle Car
+  m_EditorClassIdentifier: 
+  Name: 'Vehicle: Car'
+  Version: 1.1.4
+  MinMFPSVersion: 1.9
+  Instructions: "Vehicle: <b>Car</b>, integrates multiplayer <b>4-wheels vehicles</b>.\r\n\r\nAllowing
+    any player to <b>enter/exit</b> from the vehicle as driver or passenger.\n\n<b>Get
+    Started:</b>\n\n\u25A0 Open and Follow the integration guide in the Editor Menu:
+    <b>MFPS -> Vehicle -> Car -> Integrate</b>."
+  TutorialScript: MFPSVehicleDoc

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a63745bc764bd4f8bb79a325fc747f, type: 3}
+  m_Name: DefaultCameraSettings
+  m_EditorClassIdentifier: 
+  Distance: 20
+  YawLimit: 45
+  PitchLimit: 35
+  Damping: 10
+  FieldOfView: 60
+  Sensitivity: 1
+  MobileSensitivity: 0.5

@@ -1,0 +1,24 @@
+1.1.4
+Improved: Add option to force first-person mode for passengers.
+
+1.1.3
+Improved: Added separated sensitivity multiplier for the vehicle camera on PC/Console and mobile devices.
+Fix: Error when trying to exit the vehicle and this doesn't have passengers seats.
+
+1.1.2
+Fix: Issue that cause players can't enter in passengers seats when a player is in the driver seat.
+
+1.1.1
+Fix: Player can control the vehicle and receive damage if change team while inside a vehicle.
+Fix: If an enemy destroys the vehicle while the local player inside the elimination counts as suicide.
+
+1.1.0
+Improve: Smoothed of the front wheels and the steer wheel rotation.
+Improve: Smooth vehicle synchronization.
+Improve: Now player collisions doesn't make the car stop abruptly anymore.
+Improve: Better vehicle physics.
+Fix: Player enter in the same vehicle if multiple vehicles in the map have the same enter collider name.
+
+1.0.5
+Support for Mobile Controller addon.
+Add Mobile buttons for enter/exit the vehicle.
